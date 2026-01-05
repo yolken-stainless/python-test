@@ -389,7 +389,8 @@ print(yolken_test2.__version__)
 
 ## Requirements
 
-Python 3.9 or higher.
+Python 3.10 or higher.
+Please use this version!
 
 ## Contributing
 
